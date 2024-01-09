@@ -10,7 +10,7 @@ body {
 }
 
 .part1 {
-    background-image: url("/resources/Banner Image.png") ;
+    background-image: url("./resources/Banner\ Image.png") ;
     background-repeat: no-repeat;
     background-size: cover;
     margin: 50px auto;
@@ -136,7 +136,7 @@ margin-left: 126px;
 }
 
 .sec2{
-    background-image: url(/resources/Vectorrr.png);
+    background-image: url(./resources/Vectorrr.png);
     width: 1320px;
 height: 600px;
 flex-shrink: 0;
